@@ -1,1 +1,1 @@
-# Dicoding-Android_Intermediete
+# Dicoding-Android_Intermediate
